@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.log
+*.DS_Store
+frames/
+encrypted_frames/
+decrypted_frames/
+encrypted_images_jpg/
+output.mp4
+results/

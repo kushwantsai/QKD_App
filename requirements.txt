@@ -1,0 +1,6 @@
+qiskit
+qiskit-aer
+cryptography
+opencv-python
+matplotlib
+scipy
