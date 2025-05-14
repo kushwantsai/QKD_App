@@ -49,6 +49,7 @@ Option 1: Encrypt a Message
 Option 2: Encrypt a Video
 
 * Provide the full path of an .mp4 video file.
+* make sure to include the extension while providing the path
 * The program will:
 
   * Extract frames
