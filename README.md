@@ -1,3 +1,7 @@
+This repository contains the official implementation of our research paper:
+
+**"Quantum-Enhanced Secure Communication: Integrating BB84 Key Distribution with AES for Real-Time Text and Video Transmission"**,  
+presented at the **16th IEEE ICCCNT 2025**, hosted by **IIT Indore**.
 
 Quantum-Safe Chat & Video Encryption using BB84 and AES
 
@@ -63,8 +67,4 @@ Educational Value
 * Reinforces secure communication using hybrid encryption
 * Provides visual validation of quantum key entropy and security properties
 
-This repository contains the official implementation of our research paper:
-
-**"Quantum-Enhanced Secure Communication: Integrating BB84 Key Distribution with AES for Real-Time Text and Video Transmission"**,  
-presented at the **16th IEEE ICCCNT 2025**, hosted by **IIT Indore**.
 
